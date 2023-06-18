@@ -2,8 +2,8 @@
 
 Lead Backend Architect
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano2011/)](https://www.linkedin.com/in/adriano2011/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dricco@gmail.com)](mailto:dricco@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Adriano%20Carvalho-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano2011/)](https://www.linkedin.com/in/adriano2011/) 
+[![Gmail Badge](https://img.shields.io/badge/-dricco@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dricco@gmail.com)](mailto:dricco@gmail.com)
 
 Enthusiast of backend architecture & development technologies.
 
